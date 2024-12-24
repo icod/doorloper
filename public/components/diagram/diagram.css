@@ -1,0 +1,38 @@
+.container {
+    border-spacing: 0;
+    border: 2px solid var(--black);
+}
+
+.cell {
+    border: .5px solid var(--black);
+    height: 2em;
+    width: 2em;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.equal {
+    background-color: var(--green-bg);
+    font-weight: bold;
+    color: var(--green);
+}
+
+x-diagram .separator {
+    color: light-dark(silver, rgb(70, 70, 70));
+}
+
+x-diagram .separator::before {
+    content: "";
+}
+
+x-diagram .small {
+    font-size: small;
+}
+
+x-diagram .h {
+    color: SteelBlue;
+}
+
+x-diagram .v {
+    color: IndianRed;
+}

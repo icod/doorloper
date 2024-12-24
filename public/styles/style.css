@@ -1,0 +1,9 @@
+/* :root {
+    color-scheme: light dark;
+} */
+
+body {
+    background-color: light-dark(white, var(--black));
+    font-family: var(--font);
+    color: light-dark(var(--black), white);
+}

@@ -1,0 +1,6 @@
+@import url('./styles/variables.css');
+@import url('./styles/style.css');
+@import url('./components/opgave/opgave.css');
+@import url('./components/doorloper/doorloper.css');
+@import url('./components/diagram/diagram.css');
+

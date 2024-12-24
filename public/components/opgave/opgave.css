@@ -1,0 +1,24 @@
+x-opgave {
+    display: inline-block;
+    font-size: 1rem;
+    margin-right: 1em;
+    padding: .2em;
+}
+
+x-opgave input {
+    border-radius: 2px;
+    border: 1px solid var(--gray);
+    font-family: var(--font-monospace);
+    vertical-align: middle;
+    padding: .5em;
+    width: 5em;
+}
+
+x-opgave input:valid {
+    border-color: var(--black);
+}
+
+x-opgave label {
+    padding-right: .5em;
+    font-size: smaller;
+}
