@@ -1,6 +1,6 @@
 # Doorloper
 
-Dit is een companion app voor opgave 18 uit de AIVD Kerstpuzzel 2024. 
+Dit is een companion app voor opgave 18 uit de [AIVD Kerstpuzzel 2024](https://www.aivd.nl/onderwerpen/aivd-kerstpuzzel/documenten/publicaties/2024/12/11/aivd-kerstpuzzel-2024). 
 
 Het is ook voornamelijk een vingeroefening in plain vanilla JavaScript en HTML. Waarschijnlijk is er nog wat te verbeteren op het gebied van efficiëntie, maar het heeft mij in ieder geval geholpen om de opgave op te lossen. 
 
